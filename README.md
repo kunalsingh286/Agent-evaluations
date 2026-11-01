@@ -16,7 +16,7 @@ This repository is a hands-on lab for answering those questions. It pairs a Lang
 
 ## Contents
 
-- [What you will learn](#what-you-will-learn)
+- [What is this project](#what-is-this-project)
 - [How the agent works](#how-the-agent-works)
 - [Quick start](#quick-start)
 - [Run evaluations](#run-evaluations)
@@ -26,7 +26,7 @@ This repository is a hands-on lab for answering those questions. It pairs a Lang
 - [Project map](#project-map)
 - [Limitations and troubleshooting](#limitations-and-troubleshooting)
 
-## What you will learn
+## What is this project 
 
 - Build a tool-using agent with a system prompt, conversation memory, and structured output.
 - Define evaluation test cases (`Goldens`) with inputs, expected answers, and expected tool calls with exact arguments.
